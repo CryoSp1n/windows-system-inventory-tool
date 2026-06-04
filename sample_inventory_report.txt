@@ -1,0 +1,22 @@
+Windows System Inventory Report
+Generated: 2026-06-03 17:21:42
+
+Computer Name: SAMPLE-PC
+Current User: sample_user
+Operating System: Windows 11
+OS Version: 10.0.26200
+Processor: Intel64 Family 6
+Architecture: AMD64
+Total RAM: 64.0 GB
+Local IP Address: 192.168.1.100
+
+Disk C:
+Total: 953.09 GB
+Used: 153.14 GB
+Free: 799.95 GB
+
+Local Users:
+Administrator
+DefaultAccount
+Guest
+sample_user

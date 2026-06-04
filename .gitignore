@@ -1,0 +1,4 @@
+inventory_report.txt
+__pycache__/
+*.pyc
+.idea/
