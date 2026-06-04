@@ -39,3 +39,7 @@ inventory_report.txt
 ## Purpose
 
 This project demonstrates basic IT support, system inventory, troubleshooting, and automation skills.
+
+## Demo
+
+![Demo](screenshots/demo.png)
